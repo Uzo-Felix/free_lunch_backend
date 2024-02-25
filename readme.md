@@ -2,13 +2,28 @@
 # Free Lunch - Backend
 
 ![Repo size](https://img.shields.io/github/repo-size/Uzo-Felix/free_lunch_backend)
-![Pep8 style](https://img.shields.io/badge/PEP8-style%20guide-purple?style=round-square)
+![ESLint style](https://img.shields.io/badge/ESLint-style%20guide-blue?style=round-square)
 ![Latest commit](https://img.shields.io/github/last-commit/Uzo-Felix/free_lunch_backend/main?style=round-square)
 
 ![Alt text](freeLunch.jpg)
 ![Alt text](freeLunch2.PNG)
 
-This is a `Node.js / Express` project.
+![Database schema](https://dbdiagram.io/d/Free-lunch-app-65db99b65cd0412774c4b037)
+
+
+## Description:
+
+The Free Lunch App Backend repository hosts the server-side codebase for a web or mobile application aimed at facilitating the management and distribution of free lunches within organizations or communities. This backend system is responsible for handling user authentication, managing organizations, processing lunch requests, tracking user balances, and handling withdrawals.
+
+## Key Features:
+
+User Management: Allows users to register, login, and manage their profiles.
+Organization Management: Enables the creation, modification, and deletion of organizations.
+Lunch Distribution: Facilitates the sending and receiving of lunch requests between users within organizations.
+Wallet Management: Tracks user lunch credit balances and handles withdrawals.
+Invitation System: Provides functionality for inviting users to join organizations.
+Security: Implements secure authentication mechanisms and data encryption to ensure user privacy and data integrity.
+
 
 ## Getting Started
 
